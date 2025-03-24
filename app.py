@@ -136,8 +136,8 @@ def start_screenshot_app():
 # pip install mss pyperclip pytesseract screeninfo keyboard pillow colorama
 
 keyboard.add_hotkey(KEY_COMBINATION, start_screenshot_app)
-print(f"Press {KEY_COMBINATION} to capture any screen region (Esc to exit)")
-keyboard.wait('esc')
+print(f"Press {KEY_COMBINATION} to capture any screen region (Esc+Shift to exit)")
+keyboard.wait('esc+shift')
 
 
 # pyinstaller --onefile --console --icon=screenshot.ico --hidden-import=pytesseract -n ScreenCaptureTool app.py
