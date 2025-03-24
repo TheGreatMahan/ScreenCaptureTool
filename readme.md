@@ -188,3 +188,5 @@ Feel free to modify and distribute this application as needed. Contributions are
 ---
 
 Thank you for using **ScreenCaptureTool**. If you have any issues or suggestions, please feel free to open an issue or create a pull request!
+
+![image](https://github.com/user-attachments/assets/b1607bf0-f9bb-4601-881e-e95041ad795b)
