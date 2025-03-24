@@ -98,7 +98,7 @@ pip install mss pyperclip pytesseract screeninfo keyboard pillow colorama
    ```
    You should see:
    ```
-   Press ctrl+shift+alt to capture any screen region (Esc to exit)
+   Press ctrl+shift+alt to capture any screen region (Esc+Shift to exit)
    ```
 
 2. **Capture a Screenshot with OCR**  
@@ -112,7 +112,7 @@ pip install mss pyperclip pytesseract screeninfo keyboard pillow colorama
    - The application prints the recognized text in the console.
 
 4. **Exit the Application**  
-   Press <kbd>Esc</kbd> in the console to stop the application.
+   Press <kbd>Esc+Shift</kbd> in the console to stop the application.
 
 ---
 
